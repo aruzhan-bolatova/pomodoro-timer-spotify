@@ -11,7 +11,8 @@ This project is a **Pomodoro Timer** application built with **React.js**. It int
 - **Background Animations:** Animated backgrounds that switch based on the timer mode.
 
 ## Screenshots
-![Pomodoro Timer Screenshot](break_screenshot.png)(focus_screenshot.png)
+![Pomodoro Timer Break mode Screenshot](break_screenshot.png)
+![Pomodoro Timer Focus mode Screenshot](focus_screenshot.png)
 
 ## Getting Started
 
