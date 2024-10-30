@@ -52,7 +52,7 @@ This project is a **Pomodoro Timer** application built with **React.js**. It int
 
 ## Customization
 To change the playlists:
-- Update the playlist IDs in `PomodoroTimer.js` for the `focus` and `break` playlists with the IDs of your choice.
+- Update the playlist IDs in `App.js` `fetchPlaylists` function for the `focus` and `break` playlists with the IDs of your choice.
 
 ## Future Enhancements
 - Add more background animations.
