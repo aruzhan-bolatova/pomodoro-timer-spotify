@@ -1,0 +1,83 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.timer-card {
+  background: white;
+  border-radius: 16px;
+  padding: 32px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.time {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.track-info {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.track-name {
+  font-weight: bold;
+  margin-bottom: 4px;
+}
+
+.track-artist {
+  color: #666;
+  font-size: 0.9em;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+}
+
+.buttons button {
+  padding: 12px;
+  border-radius: 50%;
+  border: none;
+  background: #4a90e2;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.buttons button:hover {
+  background: #357abd;
+}
+
+.stats {
+  text-align: center;
+  color: #666;
+  margin-bottom: 16px;
+}
+
+.randomFact {
+  text-align: center;
+  font-style: italic;
+  color: #666;
+  background: #f5f5f5;
+  padding: 16px;
+  border-radius: 8px;
+  margin-top: 16px;
+}
