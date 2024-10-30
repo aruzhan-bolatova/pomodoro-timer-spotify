@@ -1,7 +1,15 @@
 Here’s a sample `README.md` file for your React-based Pomodoro Timer project:
 # Pomodoro Timer with Spotify Integration 🎶
 
-This project is a **Pomodoro Timer** application built with **React.js**. It integrates with the **Spotify API** to play curated playlists during focus and break sessions and displays random facts for user duting break time. This timer uses various animations to create a calm and engaging background experience.
+This project is a **Pomodoro Timer** application built with **React.js**. It integrates with the **Spotify API** to play curated playlists during focus and break sessions and displays random facts for user duting break time. This timer uses various animations to create a calm and engaging background experience. 
+
+# Problem It Solves
+When working on tasks that require sustained concentration, many people struggle with maintaining focus and taking efficient breaks. The Pomodoro Technique offers a solution for better time management, but conventional Pomodoro app lacks engaging features.  This app solves the following challenges:
+
+- **Focus Retention:** By structuring work and break intervals, it helps users stay on task and take necessary breaks to prevent burnout.
+- **Enhanced Breaks with Random Facts:** Users receive a random fact during breaks, shifting their focus temporarily and improving relaxation.
+- **Music for Different Moods:** The app integrates Spotify playlists to provide background music tailored to each phase: calming tunes during focus sessions and uplifting tracks during breaks. Importantly, this **decreases interaction with the phone or external websites**, since music can be controlled within app, helping user to stay focused. 
+- **Visual Engagement:** Animated backgrounds change based on the focus or break mode, keeping the experience visually dynamic.
 
 ## Features
 - **Pomodoro Timer:** Toggle between focus (25 minutes) and break (5 minutes) modes.
