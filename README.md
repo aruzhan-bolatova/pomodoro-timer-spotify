@@ -32,7 +32,7 @@ When working on tasks that require sustained concentration, many people struggle
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pomodoro-timer-spotify.git
+   git clone https://github.com/aruzhan-bolatova/pomodoro-timer-spotify.git
    cd pomodoro-timer-spotify
    ```
 
