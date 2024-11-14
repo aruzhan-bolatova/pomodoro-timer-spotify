@@ -1,4 +1,3 @@
-Here’s a sample `README.md` file for your React-based Pomodoro Timer project:
 # Pomodoro Timer with Spotify Integration 🎶
 
 This project is a **Pomodoro Timer** application built with **React.js**. It integrates with the **Spotify API** to play curated playlists during focus and break sessions and displays random facts for user duting break time. This timer uses various animations to create a calm and engaging background experience. 
